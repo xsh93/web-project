@@ -9,3 +9,6 @@ build/
 dist/
 wheels/
 *.egg-info
+
+.env.*
+!.env.sample
